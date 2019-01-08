@@ -1,10 +1,13 @@
 # news
 
-> My unreal Nuxt.js project
+> Fetch news from API using Nuxt, Vue, Vuetify & Axios.
+
+YouTube tutorial(s) -
+https://www.youtube.com/watch?v=e4NoUb3lAjA
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
